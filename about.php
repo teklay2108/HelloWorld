@@ -28,5 +28,8 @@
 		<a href="home.php">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<a href="abou.php">About Us</a>
 	</div>
+	<div>
+		<h2>This is about us!</h2>
+	</div>
 </body>
 </html>
